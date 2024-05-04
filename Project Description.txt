@@ -1,0 +1,8 @@
+This robot can dispense five balls to five bins.
+It uses the wall following function. (left wall)
+It uses an Arduino Mega(ATMega 2560) board as the microcontroller.
+It uses two Nema 17 stepper motors to move the robot.
+It uses one stepper motor(28BYJ-48) for the dispenser.
+It uses two sharp IRs (one for front and one on left side). 
+Left SharpIR to align the left wall because it is wall following.
+Front SharpIR to find the distance in front. 
